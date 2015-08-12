@@ -14,4 +14,6 @@ Video tutorials of phonoticians using their tools.
 * _Corpus creation, organization, and querry_ with EMU
 * _Ultrasound_ use and placement
 * _Introduction to phonetic ultrasound_: when to use it and why
-* [_NDI_](http://www.ndigital.com): placement use and performance
+* [_NDI_](http://www.ndigital.com): placement use and performance use of the eletrode and the product WAV
+* _Matlab Toolbox_ [k-Wave](http://www.k-wave.org/) for modeling the acoustic waves.
+* 
