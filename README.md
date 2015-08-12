@@ -23,7 +23,7 @@ Video tutorials of phonoticians using their tools.
 * http://www.speechandhearing.net/laboratory/tools.php
 * http://www.springer.com/engineering/signals/journal/10772
 * http://www.phon.ucl.ac.uk/resource/software.php
-* 
+
 ### Companies
 * Articulate Instruments: http://www.articulateinstruments.com/
 * Carstens
