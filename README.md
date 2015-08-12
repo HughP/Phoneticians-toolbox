@@ -29,6 +29,12 @@ Video tutorials of phonoticians using their tools.
 * Carstens
 * NDI
 
+### 3D Models
+* Tools
+* Models
+* What they do
+
+
 ## Template
 * What is the literature surrounding the use of the tool? 
 * What is the problem they are trying to solve that requires the tool?
