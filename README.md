@@ -17,6 +17,7 @@ Video tutorials of phonoticians using their tools.
 * [_NDI_](http://www.ndigital.com): placement use and performance use of the eletrode and the product WAV
 * _Matlab Toolbox_ [k-Wave](http://www.k-wave.org/) for modeling the acoustic waves.
 * [Wavesurfer](http://www.speech.kth.se/wavesurfer/)
+* Electropalatograph
 
 ### More tools 
 * http://www.speechandhearing.net/laboratory/tools.php
@@ -24,7 +25,7 @@ Video tutorials of phonoticians using their tools.
 * http://www.phon.ucl.ac.uk/resource/software.php
 * 
 ### Companies
-* Articulate Instruments
+* Articulate Instruments: http://www.articulateinstruments.com/
 * Carstens
 * NDI
 
